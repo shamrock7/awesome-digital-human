@@ -38,173 +38,175 @@
 
 ## 行业 Demo 或产品 <a name='industry-demo-or-product'></a>
 
-Highavenue: Turn yourself into a 3D model.
+Highavenue: 将自己变成一个 3D 模型。
+
 
 ## 3D/4D 人体动画生成与制作 <a name='3d-human-avatar-generation-and-animation'></a>
 
-**DressRecon: Freeform 4D Human Reconstruction from Monocular Video.**<br>
+**DressRecon：基于单目视频的自由形态 4D 人体重建**<br>
 *Jeff Tan, Donglai Xiang, Shubham Tulsiani, Deva Ramanan, Gengshan Yang.*<br>
-arxiv 2024.  [[PDF](https://arxiv.org/abs/2409.20563)] [[Project](https://jefftan969.github.io/dressrecon/)] [[Code](https://github.com/jefftan969/dressrecon)]
+arxiv 2024.  [[PDF](https://arxiv.org/abs/2409.20563)] [[项目](https://jefftan969.github.io/dressrecon/)] [[代码](https://github.com/jefftan969/dressrecon)]
 
-**Disco4D: Disentangled 4D Human Generation and Animation from a Single Image.**<br>
+**Disco4D：基于单张图像的解耦 4D 人体生成与动画**<br>
 *Hui En Pang, Shuai Liu, Zhongang Cai, Lei Yang, Tianwei Zhang, Ziwei Liu.*<br>
-arxiv 2024.  [[PDF](https://arxiv.org/abs/2409.17280)] [[Project](https://disco-4d.github.io/)]
+arxiv 2024.  [[PDF](https://arxiv.org/abs/2409.17280)] [[项目](https://disco-4d.github.io/)]
 
-**RodinHD: High-Fidelity 3D Avatar Generation with Diffusion Models.**<br>
+**RodinHD：利用扩散模型实现高保真 3D 虚拟形象生成**<br>
 *Bowen Zhang, Yiji Cheng, Chunyu Wang, Ting Zhang, Jiaolong Yang, Yansong Tang, Feng Zhao, Dong Chen, Baining Guo.*<br>
-ECCV 2024. [[PDF](https://arxiv.org/abs/2407.06938)] [[Project](https://rodinhd.github.io)] [[Code]()]
+ECCV 2024. [[PDF](https://arxiv.org/abs/2407.06938)] [[项目](https://rodinhd.github.io)] [[代码]()]
 
-**Animatable Gaussians: Learning Pose-dependent Gaussian Maps for High-fidelity Human Avatar Modeling.**<br>
+**可动画高斯模型：学习基于姿态的高斯映射以实现高保真人体虚拟形象建模**<br>
 *Zhe Li, Zerong Zheng, Lizhen Wang, Yebin Liu..*<br> 
-CVPR 2024. [[PDF](http://arxiv.org/abs/2311.16096)] [[Project](https://animatable-gaussians.github.io)] [[Code](https://github.com/lizhe00/AnimatableGaussians)]
+CVPR 2024. [[PDF](http://arxiv.org/abs/2311.16096)] [[项目](https://animatable-gaussians.github.io)] [[代码](https://github.com/lizhe00/AnimatableGaussians)]
 
-**HumanNorm: Learning Normal Diffusion Model for High-quality and Realistic 3D Human Generation.**<br>
+**HumanNorm：学习正态扩散模型以生成高质量逼真的 3D 人体**<br>
 *Xin Huang, Ruizhi Shao, Qi Zhang, Hongwen Zhang, Ying Feng, Yebin Liu, Qing Wang..*<br> 
-CVPR 2024. [[PDF]()] [[Project](https://humannorm.github.io/)]
+CVPR 2024. [[PDF]()] [[项目](https://humannorm.github.io/)]
 
-**RAM-Avatar: Real-time Photo-Realistic Avatar from Monocular Videos with Full-body Control.**<br>
+**RAM - 虚拟化身：通过单目视频实现具备全身控制的实时逼真虚拟化身**<br>
 *Xiang Deng, Zerong Zheng, Yuxiang Zhang, Jingxiang Sun, Chao Xu, XiaoDong Yang, Lizhen Wang, Yebin Liu.*<br> 
-CVPR 2024. [[PDF](https://cloud.tsinghua.edu.cn/f/6b7a88c3b4ac43b0b506/?dl=1)] [[Project](https://github.com/Xiang-Deng00/RAM-Avatar/)] [[Code](https://github.com/Xiang-Deng00/RAM-Avatar)]
+CVPR 2024. [[PDF](https://cloud.tsinghua.edu.cn/f/6b7a88c3b4ac43b0b506/?dl=1)] [[项目](https://github.com/Xiang-Deng00/RAM-Avatar/)] [[代码](https://github.com/Xiang-Deng00/RAM-Avatar)]
 
-**TexVocab:Texture Vocabulary-conditioned Human Avatars.**<br>
+**TexVocab：基于纹理词汇条件的人体虚拟化身**<br>
 *Yuxiao Liu, Zhe Li, Yebin Liu, Haoqian Wang.*<br> 
-CVPR 2024. [[PDF](https://arxiv.org/abs/2404.00524)] [[Project](https://texvocab.github.io/)]
+CVPR 2024. [[PDF](https://arxiv.org/abs/2404.00524)] [[项目](https://texvocab.github.io/)]
 
-**HumanGaussian: Text-Driven 3D Human Generation with Gaussian Splatting.**<br>
+**HumanGaussian：基于高斯溅射的文本驱动 3D 人体生成**<br>
 *Xian Liu, Xiaohang Zhan, Jiaxiang Tang, Ying Shan, Gang Zeng, Dahua Lin, Xihui Liu, Ziwei Liu.*<br> 
-CVPR 2024. [[PDF](http://arxiv.org/abs/2311.17061)] [[Project](https://alvinliu0.github.io/projects/HumanGaussian)]
+CVPR 2024. [[PDF](http://arxiv.org/abs/2311.17061)] [[项目](https://alvinliu0.github.io/projects/HumanGaussian)]
 
-**DreamAvatar: Text-and-Shape Guided 3D Human Avatar Generation via Diffusion Models.**<br>
+**DreamAvatar：基于扩散模型的文本与形状引导的 3D 人体虚拟形象生成**<br>
 *[Yukang Cao](https://yukangcao.github.io/), [Yan-Pei Cao](https://yanpei.me/), [Kai Han](https://www.kaihan.org/), [Ying Shan](https://scholar.google.com/citations?user=4oXBp9UAAAAJ&hl=zh-CN), [Kwan-Yee K. Wong](https://i.cs.hku.hk/~kykwong/).*<br>
-CVPR 2024. [[PDF](https://arxiv.org/abs/2304.00916)] [[Project](https://yukangcao.github.io/DreamAvatar/)] [[Code](https://yukangcao.github.io/DreamAvatar/)]
+CVPR 2024. [[PDF](https://arxiv.org/abs/2304.00916)] [[项目](https://yukangcao.github.io/DreamAvatar/)] [[代码](https://yukangcao.github.io/DreamAvatar/)]
 
-**SCULPT: Shape-Conditioned Unpaired Learning of Pose-dependent Clothed and Textured Human Meshes.**<br>
+**SCULPT：基于形状条件的非成对学习，用于生成依赖姿态的着装及带纹理人体网格**<br>
 *Soubhik Sanyal, Partha Ghosh, Jinlong Yang, Michael J. Black, Justus Thies, Timo Bolkart.*<br>
-CVPR 2024. [[PDF](https://arxiv.org/abs/2308.10638)] [[Project](https://huangyangyi.github.io/tech/)]
+CVPR 2024. [[PDF](https://arxiv.org/abs/2308.10638)] [[项目](https://huangyangyi.github.io/tech/)]
 
-**3DGS-Avatar: Animatable Avatars via Deformable 3D Gaussian Splatting.**<br>
+**3DGS - 虚拟化身：通过可变形 3D 高斯溅射实现可动画虚拟化身**<br>
 *Zhiyin Qian, Shaofei Wang, Marko Mihajlovic, Andreas Geiger, Siyu Tang.*<br> 
-CVPR 2024. [[PDF](https://arxiv.org/abs/2312.09228)] [[Project](https://neuralbodies.github.io/3DGS-Avatar/)]
+CVPR 2024. [[PDF](https://arxiv.org/abs/2312.09228)] [[项目](https://neuralbodies.github.io/3DGS-Avatar/)]
 
-**Emotional Speech-driven 3D Body Animation Via Disentangled Latent Diffusion.**<br>
+**基于解耦潜在扩散的情感语音驱动 3D 人体动画**<br>
 *Kiran Chhatre, Radek Daněček, Nikos Athanasiou, Giorgio Becherini, Christopher Peters, Michael J. Black, Timo Bolkart.*<br> 
 CVPR 2024. [[PDF](http://arxiv.org/abs/2312.04466)]
 
-**GauHuman: Articulated Gaussian Splatting from Monocular Human Videos.**<br>
+**GauHuman：基于单目人体视频的关节式高斯溅射技术**<br>
 *Shoukang Hu, Ziwei Liu.*<br> 
-CVPR 2024. [[PDF](http://arxiv.org/abs/2312.02973v1)] [[Project](https://skhu101.github.io/GauHuman/)] [[Code](https://github.com/skhu101/GauHuman)]
+CVPR 2024. [[PDF](http://arxiv.org/abs/2312.02973v1)] [[项目](https://skhu101.github.io/GauHuman/)] [[代码](https://github.com/skhu101/GauHuman)]
 
-**FlashAvatar: High-Fidelity Digital Avatar Rendering at 300FPS.**<br>
+**FlashAvatar：以 300 FPS 实现高保真数字虚拟化身渲染**<br>
 *Jun Xiang, Xuan Gao, Yudong Guo, Juyong Zhang.*<br> 
-CVPR 2024. [[PDF](http://arxiv.org/abs/2312.02214v1)] [[Project](https://ustc3dv.github.io/FlashAvatar/)]
+CVPR 2024. [[PDF](http://arxiv.org/abs/2312.02214v1)] [[项目](https://ustc3dv.github.io/FlashAvatar/)]
 
-**PEGASUS: Personalized Generative 3D Avatars with Composable Attributes.**<br>
+**PEGASUS：具备可组合属性的个性化生成式 3D 虚拟化身**<br>
 *[Hyunsoo Cha](https://research.hyunsoocha.com/), [Byungjun Kim](https://bjkim95.github.io/), [Hanbyul Joo](https://jhugestar.github.io/).*<br>
-CVPR 2024. [[PDF](https://arxiv.org/pdf/2402.10636)] [[Project](https://snuvclab.github.io/pegasus/)] [[Code](https://github.com/snuvclab/pegasus)]
+CVPR 2024. [[PDF](https://arxiv.org/pdf/2402.10636)] [[项目](https://snuvclab.github.io/pegasus/)] [[代码](https://github.com/snuvclab/pegasus)]
 
-**TADA! Text to Animatable Digital Avatars.**<br>
+**TADA：从文本到可动数字虚拟化身**<br>
 *[Tingting Liao](https://github.com/TingtingLiao), [Hongwei Yi](https://xyyhw.top/), [Yuliang Xiu](http://xiuyuliang.cn/), [Jiaxiang Tang](https://me.kiui.moe/), [Yangyi Huang](https://github.com/huangyangyi/), [Justus Thies](https://justusthies.github.io/), [Michael J. Black](https://ps.is.tuebingen.mpg.de/person/black).*<br>
-3DV 2024. [[PDF](https://arxiv.org)] [[Project](https://tada.is.tue.mpg.de/)] [[Code](https://github.com/TingtingLiao/TADA)]
+3DV 2024. [[PDF](https://arxiv.org)] [[项目](https://tada.is.tue.mpg.de/)] [[代码](https://github.com/TingtingLiao/TADA)]
 
-**Efficient 3D Articulated Human Generation with Layered Surface Volumes.**<br>
+**基于分层表面体的高效 3D 关节式人体生成**<br>
 *Yinghao Xu, Wang Yifan, Alexander W. Bergman, Menglei Chai, Bolei Zhou, Gordon Wetzstein.*<br> 
-3DV 2024. [[PDF](https://arxiv.org/abs/2307.05462)] [[Project](https://www.computationalimaging.org/publications/lsv/)]
+3DV 2024. [[PDF](https://arxiv.org/abs/2307.05462)] [[项目](https://www.computationalimaging.org/publications/lsv/)]
 
-**TECA: Text-Guided Generation and Editing of Compositional 3D Avatars.**<br>
+**TECA：文本引导的组合式 3D 虚拟形象生成与编辑**<br>
 *[Hao Zhang](https://haozhang990127.github.io/), [Yao Feng](https://scholar.google.com/citations?user=wNQQhSIAAAAJ&hl=en&oi=ao), [Peter Kulits](https://kulits.github.io/), [Yandong Wen](https://is.mpg.de/person/ydwen), [Justus Thies](https://justusthies.github.io/), [Michael J. Black](https://ps.is.mpg.de/person/black).*<br> 
-3DV 2024. [[PDF](https://arxiv.org/abs/2309.07125)] [[Project](https://yfeng95.github.io/teca/)]
+3DV 2024. [[PDF](https://arxiv.org/abs/2309.07125)] [[项目](https://yfeng95.github.io/teca/)]
 
-**FLARE: Fast Learning of Animatable and Relightable Mesh Avatars.**<br>
+**FLARE：可动画与可重光照网格虚拟化身的快速学习**<br>
 *Shrisha Bharadwaj, Yufeng Zheng, Otmar Hilliges, Michael J. Black, Victoria Fernandez-Abrevaya.*<br>
 SIGGRAPH Asia 2023. [[PDF](https://arxiv.org/abs/2310.17519)]
 
-**Single-Shot Implicit Morphable Faces with Consistent Texture Parameterization.**<br>
+**基于一致纹理参数化的单次成像隐式可变形人脸**<br>
 *Connor Z. Lin, Koki Nagano, Jan Kautz, Eric R. Chan, Umar Iqbal, Leonidas Guibas, Gordon Wetzstein, Sameh Khamis.*<br>
-SIGGRAPH 2023. [[PDF](https://arxiv.org/abs/2305.03043)] [[Project](https://research.nvidia.com/labs/toronto-ai/ssif/)] [[Code]()]
+SIGGRAPH 2023. [[PDF](https://arxiv.org/abs/2305.03043)] [[项目](https://research.nvidia.com/labs/toronto-ai/ssif/)] [[代码]()]
 
-**DELIFFAS: Deformable Light Fields for Fast Avatar Synthesis.**<br>
+**DELIFFAS：用于快速虚拟化身合成的可变形光场**<br>
 *Youngjoong Kwon, Lingjie Liu, Henry Fuchs, Marc Habermann, Christian Theobalt.*<br> 
 NeurIPS 2023. [[PDF](http://arxiv.org/abs/2310.11449)]
 
-**PrimDiffusion: Volumetric Primitives Diffusion for 3D Human Generation.**<br>
+**PrimDiffusion：用于 3D 人体生成的体素基元扩散**<br>
 *Zhaoxi Chen, Fangzhou Hong, Haiyi Mei, Guangcong Wang, Lei Yang, Ziwei Liu.*<br> 
-NeurIPS 2023. [[PDF](http://arxiv.org/abs/2312.04559)] [[Project](https://frozenburning.github.io/projects/primdiffusion/)] [[Code](https://github.com/FrozenBurning/PrimDiffusion)]
+NeurIPS 2023. [[PDF](http://arxiv.org/abs/2312.04559)] [[项目](https://frozenburning.github.io/projects/primdiffusion/)] [[代码](https://github.com/FrozenBurning/PrimDiffusion)]
 
-**XAGen: 3D Expressive Human Avatars Generation.**<br>
+**XAGen：3D 具表现力的人体虚拟形象生成**<br>
 *Zhongcong Xu, Jianfeng Zhang, Jun Hao Liew, Jiashi Feng, Mike Zheng Shou.*<br>
-NeurIPS 2023. [[PDF](https://arxiv.org/abs/2311.13574)] [[Project](https://showlab.github.io/xagen/)] [[Code](https://github.com/magic-research/xagen)]
+NeurIPS 2023. [[PDF](https://arxiv.org/abs/2311.13574)] [[项目](https://showlab.github.io/xagen/)] [[代码](https://github.com/magic-research/xagen)]
 
-**DreamHuman: Animatable 3D Avatars from Text.**<br>
+**DreamHuman：基于文本的可动 3D 虚拟化身**<br>
 *[Nikos Kolotouros](https://www.nikoskolot.com/), [Thiemo Alldieck](https://research.google/people/107250/), [Andrei Zanfir](https://scholar.google.com/citations?user=8lmzWycAAAAJ&hl=en&oi=ao), [Eduard Gabriel Bazavan](https://research.google/people/107659/), [Mihai Fieraru](https://mihaifieraru.github.io/), [Cristian Sminchisescu](https://research.google/people/CristianSminchisescu/).*<br> 
-NeurIPS 2023. [[PDF](https://arxiv.org/abs/2306.09329)] [[Project](https://dream-human.github.io/)] [[Avatar Gallery](https://dream-human.github.io/avatar_gallery.html)]
+NeurIPS 2023. [[PDF](https://arxiv.org/abs/2306.09329)] [[项目](https://dream-human.github.io/)] [[头像图库](https://dream-human.github.io/avatar_gallery.html)]
 
-**DINAR: Diffusion Inpainting of Neural Textures for One-Shot Human Avatars.**<br>
+**DINAR：用于一次性生成人体虚拟化身的神经纹理扩散修复技术
+**<br>
 *David Svitov, Dmitrii Gudkov, Renat Bashirov, Victor Lempitsky.*<br> 
-ICCV 2023. [[PDF](https://arxiv.org/abs/2303.09375)] [[Code](https://github.com/SamsungLabs/DINAR)]
+ICCV 2023. [[PDF](https://arxiv.org/abs/2303.09375)] [[代码](https://github.com/SamsungLabs/DINAR)]
 
-**AvatarCraft: Transforming Text into Neural Human Avatars with Parameterized Shape and Pose Control.**<br>
+**AvatarCraft：通过参数化形状与姿态控制将文本转化为神经人体虚拟形象**<br>
 *[Ruixiang Jiang](https://j-rx.com/), [Can Wang](https://cassiepython.github.io/), [Jingbo Zhang](https://eckertzhang.github.io/), [Menglei Chai](https://mlchai.com/), [Mingming He](https://mingminghe.com/), [Dongdong Chen](https://www.dongdongchen.bid/), [Jing Liao](https://liaojing.github.io/html/).*<br>
-ICCV 2023. [[PDF](https://arxiv.org/abs/2303.17606)] [[Project](https://avatar-craft.github.io/)] [[Code](https://github.com/songrise/avatarcraft)] [[Data](https://drive.google.com/drive/folders/1m97mmoAtDes0mBwkS4q2VNBivXSmRkOK)]
+ICCV 2023. [[PDF](https://arxiv.org/abs/2303.17606)] [[项目](https://avatar-craft.github.io/)] [[代码](https://github.com/songrise/avatarcraft)] [[数据](https://drive.google.com/drive/folders/1m97mmoAtDes0mBwkS4q2VNBivXSmRkOK)]
 
-**StyleAvatar3D: Leveraging Image-Text Diffusion Models for High-Fidelity 3D Avatar Generation.**<br>
+**StyleAvatar3D：利用图像 - 文本扩散模型实现高保真 3D 虚拟化身生成**<br>
 *Chi Zhang, Yiwen Chen, Yijun Fu, Zhenglin Zhou, Gang YU, Billzb Wang, Bin Fu, Tao Chen, Guosheng Lin, Chunhua Shen.*<br> 
-ICCV 2023. [[PDF](http://arxiv.org/abs/2305.19012)] [[Project](https://x-zhangyang.github.io/2023_Get3DHuman/)] [[Code](https://github.com/icoz69/StyleAvatar3D)]
+ICCV 2023. [[PDF](http://arxiv.org/abs/2305.19012)] [[项目](https://x-zhangyang.github.io/2023_Get3DHuman/)] [[代码](https://github.com/icoz69/StyleAvatar3D)]
 
-**Get3DHuman: Lifting StyleGAN-Human into a 3D Generative Model using Pixel-aligned Reconstruction Priors.**<br>
+**Get3DHuman：运用像素对齐重建先验将 StyleGAN - Human 提升为 3D 生成模型**<br>
 *Zhangyang Xiong, Di Kang, Derong Jin, Weikai Chen, Linchao Bao, Xiaoguang Han.*<br>
-ICCV 2023. [[PDF](https://arxiv.org/abs/2302.01162)] [[Code](https://github.com/X-zhangyang/Get3DHuman/)]
+ICCV 2023. [[PDF](https://arxiv.org/abs/2302.01162)] [[代码](https://github.com/X-zhangyang/Get3DHuman/)]
 
-**GETAvatar: Generative Textured Meshes for Animatable Human Avatars.**<br>
+**GETAvatar：用于可动画人体虚拟形象的生成式带纹理网格**<br>
 *Xuanmeng Zhang, Jianfeng Zhang, Rohan Chacko, Hongyi Xu, Guoxian Song, Yi Yang, Jiashi Feng.*<br>
-ICCV 2023. [[PDF](https://arxiv.org/abs/2310.02714)] [[Project](https://getavatar.github.io/)]
+ICCV 2023. [[PDF](https://arxiv.org/abs/2310.02714)] [[项目](https://getavatar.github.io/)]
 
-**AG3D: Learning to Generate 3D Avatars from 2D Image Collections.**<br>
+**AG3D：从二维图像集合中学习生成三维虚拟化身**<br>
 *[Zijian Dong](https://ait.ethz.ch/people/zijian/), [Xu Chen](https://ait.ethz.ch/people/xu/), [Jinlong Yang](https://is.mpg.de/~jyang), [Michael J. Black](https://ps.is.mpg.de/~black), [Otmar Hilliges](https://ait.ethz.ch/people/hilliges), [Andreas Geiger](http://www.cvlibs.net/).*<br> 
-ICCV 2023. [[PDF](http://arxiv.org/abs/2305.02312)] [[Project](https://zj-dong.github.io/AG3D/)] [[Code](https://github.com/zj-dong/AG3D)]
+ICCV 2023. [[PDF](http://arxiv.org/abs/2305.02312)] [[项目](https://zj-dong.github.io/AG3D/)] [[代码](https://github.com/zj-dong/AG3D)]
 
-**Learning Locally Editable Virtual Humans.**<br>
+**学习局部可编辑的虚拟人**<br>
 *[Hsuan-I Ho](https://azuxmioy.github.io/), [Lixin Xue](https://lxxue.github.io/), [Jie Song](https://ait.ethz.ch/people/song), [Otmar Hilliges](https://ait.ethz.ch/people/hilliges).*<br>
-CVPR 2023. [[PDF](https://files.ait.ethz.ch/projects/custom-humans/paper.pdf)] [[Project](https://custom-humans.github.io/)] [[Code](https://github.com/custom-humans/editable-humans)]
+CVPR 2023. [[PDF](https://files.ait.ethz.ch/projects/custom-humans/paper.pdf)] [[项目](https://custom-humans.github.io/)] [[代码](https://github.com/custom-humans/editable-humans)]
 
-**PersonNeRF: Personalized Reconstruction from Photo Collections.**<br>
+**人物神经辐射场（PersonNeRF）：基于照片集的个性化重建**<br>
 *[Chung-Yi Weng](https://homes.cs.washington.edu/~chungyi/), Pratul P. Srinivasan, Brian Curless, Ira Kemelmacher-Shlizerman.*<br>
-CVPR 2023. [[PDF](https://arxiv.org/abs/2302.01162)] [[Project](https://grail.cs.washington.edu/projects/personnerf/)] [[Code]()]
+CVPR 2023. [[PDF](https://arxiv.org/abs/2302.01162)] [[项目](https://grail.cs.washington.edu/projects/personnerf/)] [[代码]()]
 
-**Latent-NeRF for Shape-Guided Generation of 3D Shapes and Textures.**<br>
+**用于形状引导的 3D 形状与纹理生成的潜隐神经辐射场（Latent-NeRF）**<br>
 *Gal Metzer, Elad Richardson, Or Patashnik, Raja Giryes, Daniel Cohen-Or.*<br>
-CVPR 2023. [[PDF](https://arxiv.org/abs/2211.07600)]  [[Code](https://github.com/eladrich/latent-nerf)]
+CVPR 2023. [[PDF](https://arxiv.org/abs/2211.07600)]  [[代码](https://github.com/eladrich/latent-nerf)]
 
-**EVA3D: Compositional 3D Human Generation from 2D Image Collections.**<br>
+**EVA3D：从二维图像集合生成组合式 3D 人体模型**<br>
 *[Fangzhou Hong](https://hongfz16.github.io/), [Zhaoxi Chen](https://frozenburning.github.io/), [Yushi Lan](https://github.com/NIRVANALAN), [Liang Pan](https://scholar.google.com/citations?user=lSDISOcAAAAJ&hl=zh-CN), [Ziwei Liu](https://liuziwei7.github.io/).*<br>
-ICLR 2023. [[PDF](https://arxiv.org/abs/2210.04888)] [[Project](https://hongfz16.github.io/projects/EVA3D.html)] [[Code]()]
+ICLR 2023. [[PDF](https://arxiv.org/abs/2210.04888)] [[项目](https://hongfz16.github.io/projects/EVA3D.html)] [[代码]()]
 
-**CLIP-Actor: Text-Driven Recommendation and Stylization for Animating Human Meshes.**<br>
+**CLIP-Actor：用于人体网格动画的文本驱动推荐与风格化**<br>
 *Kim Youwang, Kim Ji-Yeon, Tae-Hyun Oh.*<br>
-ECCV 2022. [[PDF](https://arxiv.org/abs/2208.03550)] [[Project](https://clip-actor.github.io/)] [[Code](https://github.com/postech-ami/CLIP-Actor)]
+ECCV 2022. [[PDF](https://arxiv.org/abs/2208.03550)] [[项目](https://clip-actor.github.io/)] [[代码](https://github.com/postech-ami/CLIP-Actor)]
 
-**AvatarCLIP: Zero-Shot Text-Driven Generation and Animation of 3D Avatars.**<br>
+**AvatarCLIP：零样本下文本驱动的 3D 虚拟化身生成与动画制作**<br>
 *[Fangzhou Hong](https://hongfz16.github.io/), Mingyuan Zhang, Liang Pan, Zhongang Cai, Lei Yang, Ziwei Liu.*<br>
-SIGGRAPH (TOG) 2022. [[PDF](https://arxiv.org/abs/2205.08535)] [[Project](https://hongfz16.github.io/projects/AvatarCLIP.html)] [[Code](https://github.com/hongfz16/AvatarCLIP)] 
+SIGGRAPH (TOG) 2022. [[PDF](https://arxiv.org/abs/2205.08535)] [[项目](https://hongfz16.github.io/projects/AvatarCLIP.html)] [[代码](https://github.com/hongfz16/AvatarCLIP)] 
 
-**WildAvatar: Web-scale In-the-wild Video Dataset for 3D Avatar Creation.**<br>
+**WildAvatar：用于 3D 虚拟化身创建的网络规模野外视频数据集**<br>
 *Zihao Huang, ShouKang Hu, Guangcong Wang, Tianqi Liu, Yuhang Zang, Zhiguo Cao, Wei Li, Ziwei Liu.*<br> 
-arXiv 2024. [[PDF](https://arxiv.org/abs/2407.02165)] [[Project](https://wildavatar.github.io/)]
+arXiv 2024. [[PDF](https://arxiv.org/abs/2407.02165)] [[项目](https://wildavatar.github.io/)]
 
-**Drivable 3D Gaussian Avatars.**<br>
+**可驱动的 3D 高斯虚拟化身**<br>
 *Wojciech Zielonka, Timur Bagautdinov, Shunsuke Saito, Michael Zollhöfer, Justus Thies, Javier Romero.*<br> 
-arXiv 2023. [[PDF](https://arxiv.org/abs/2311.08581)] [[Project](https://zielon.github.io/d3ga/)]
+arXiv 2023. [[PDF](https://arxiv.org/abs/2311.08581)] [[项目](https://zielon.github.io/d3ga/)]
 
-**MagicAvatar: Multimodal Avatar Generation and Animation.**<br>
+**MagicAvatar：多模态虚拟化身生成与动画制作**<br>
 *Jianfeng Zhang, Hanshu Yan, Zhongcong Xu, Jiashi Feng, Jun Hao Liew.*<br> 
-arXiv 2023. [[PDF](http://arxiv.org/abs/2308.14748)] [[Project](https://magic-avatar.github.io/)] [[Code](https://github.com/magic-research/magic-avatar)]
+arXiv 2023. [[PDF](http://arxiv.org/abs/2308.14748)] [[项目](https://magic-avatar.github.io/)] [[代码](https://github.com/magic-research/magic-avatar)]
 
-**DELTA: Learning Disentangled Avatars with Hybrid 3D Representations.**<br>
+**DELTA：利用混合 3D 表征学习解耦虚拟化身**<br>
 *[Yao Feng](https://scholar.google.com/citations?user=wNQQhSIAAAAJ&hl=en&oi=ao), [Weiyang Liu](https://wyliu.com/), [Timo Bolkart](https://sites.google.com/site/bolkartt/), [Jinlong Yang](https://is.mpg.de/~jyang), [Marc Pollefeys](https://people.inf.ethz.ch/pomarc/), [Michael J. Black](https://ps.is.mpg.de/person/black).*<br> 
-arXiv 2023. [[PDF](https://arxiv.org/abs/2309.06441)] [[Project](https://yfeng95.github.io/delta/)] [[Code](https://github.com/yfeng95/DELTA)]
+arXiv 2023. [[PDF](https://arxiv.org/abs/2309.06441)] [[项目](https://yfeng95.github.io/delta/)] [[代码](https://github.com/yfeng95/DELTA)]
 
-**AvatarBooth: High-Quality and Customizable 3D Human Avatar Generation.**<br>
+**AvatarBooth：高质量可定制的 3D 人体虚拟形象生成**<br>
 *[Yifei Zeng](https://github.com/zeng-yifei), [Yuanxun Lu](https://github.com/YuanxunLu), [Xinya Ji](https://github.com/jixinya), [Yao Yao](https://yoyo000.github.io/), [Hao Zhu](http://zhuhao.cc/), [Xun Cao](https://cite.nju.edu.cn/People/Faculty/20190621/i5054.html).*<br> 
-arXiv 2023. [[PDF](https://arxiv.org/abs/2306.09864)] [[Project](https://zeng-yifei.github.io/avatarbooth_page/)] [[Code](https://github.com/zeng-yifei/AvatarBooth)]
+arXiv 2023. [[PDF](https://arxiv.org/abs/2306.09864)] [[项目](https://zeng-yifei.github.io/avatarbooth_page/)] [[代码](https://github.com/zeng-yifei/AvatarBooth)]
 
 ## （基于 2D 图像集合的）3D 可动画头部虚拟形象 <a name='3d-head-animatable-avatar--from-2d-image-collections-'></a>
 
@@ -1550,7 +1552,7 @@ ECCV 2022. [[PDF](http://arxiv.org/abs/2210.11795)] [[Code](https://github.com/n
 *[Fangzhou Hong](https://hongfz16.github.io/), [Liang Pan](), [Zhongang Cai](), [Ziwei Liu](https://liuziwei7.github.io/).*<br>
 CVPR 2022. [[PDF](https://arxiv.org/abs/2203.13815)] [[Code](https://github.com/hongfz16/HCMoCo)] [[Project](https://hongfz16.github.io/projects/HCMoCo.html;)]
 
-### Challenge and workshop
+### 挑战赛与研讨会
 - KDD Workshop on Fashion. [[2019]](https://kddfashion2019.mybluemix.net/) [[2018]](https://kddfashion2018.mybluemix.net/) [[2017]](https://kddfashion2017.mybluemix.net/) [[2016]](http://kddfashion2016.mybluemix.net/)
 - Workshop on Computer Vision for Fashion, Art and Design. [[CVPR 2020]](https://sites.google.com/view/cvcreative2020) [[ICCV 2019]](https://sites.google.com/view/cvcreative/home) [[ECCV 2018]](https://sites.google.com/view/eccvfashion/) [[ICCV 2017]](https://sites.google.com/zalando.de/cvf-iccv2017/home?authuser=0)
 - NeurlPS workshop on Machine Learning for Creativity and Design. [[2019]](https://neurips2019creativity.github.io/) [[2018]](https://nips2018creativity.github.io/) [[2017]](https://nips2017creativity.github.io/)
@@ -1565,7 +1567,7 @@ CVPR 2022. [[PDF](https://arxiv.org/abs/2203.13815)] [[Code](https://github.com/
 - Fashion IQ Challenge. [[CVPR 2020]](https://sites.google.com/view/cvcreative2020/fashion-iq?authuser=0) [[ICCV 2019]](https://sites.google.com/view/lingir/fashion-iq)
 - DeepFashion2 Challenge. [[CVPR 2020]](https://sites.google.com/view/cvcreative2020/deepfashion2?authuser=0) [[ICCV 2019]](https://sites.google.com/view/cvcreative/deepfashion2)
 
-### Datasets
+### 数据集
 - WildAvatar (2024). [[Website]](https://arxiv.org/pdf/2407.02165)
 - Fashionpedia. [[Website]](https://fashionpedia.github.io/home/index.html)
 - DeepFashion2 Dataset. [[Website]](<https://github.com/switchablenorms/DeepFashion2>)
@@ -1579,21 +1581,21 @@ CVPR 2022. [[PDF](https://arxiv.org/abs/2203.13815)] [[Code](https://github.com/
 
 ## 时装设计 <a id='garment-design'></a>
 
-**Knitting 4D Garment with Elasticity Controlled for Body Motion.**<br>
+**用于人体运动的弹性可控 4D 针织服装**<br>
 *[Zishun Liu](https://github.com/zishun), Xingjian Han, Yuchen Zhang, Xiangjia Chen, Yukun Lai, Eugeni L. Doubrovski, Emily Whiting, Charlie C.L. Wang.*<br>
-TOG 2021. [[PDF](https://1drv.ms/b/s!AsZuzkRqeoh6gsUNhZKQ0bRp-BDaJQ?e=XIegdJ)] [[Project](https://zishun.github.io/projects/Knitting4D/)]
+TOG 2021. [[PDF](https://1drv.ms/b/s!AsZuzkRqeoh6gsUNhZKQ0bRp-BDaJQ?e=XIegdJ)] [[项目](https://zishun.github.io/projects/Knitting4D/)]
 
-**Garment Design with Generative Adversarial Networks.**<br>
+**基于生成对抗网络的服装设计**<br>
 *Chenxi Yuan, Mohsen Moghaddam.*<br>
 KDD workshop on AdvML 2020. [[PDF](https://arxiv.org/abs/2007.10947)] 
 
 ## <a name='fashion-style-influences'></a>时尚风格影响因素
 
-**From Paris to Berlin: Discovering Fashion Style Influences Around the World.**<br>
+**从巴黎到柏林：探寻全球时尚风格的相互影响**<br>
 *Ziad Al-Halah, Kristen Grauman.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2004.01316)]
 
-**From Culture to Clothing: Discovering the World Events Behind A Century of Fashion Images.**<br>
+**从文化到服饰：探寻一个世纪时尚影像背后的世界大事**<br>
 *Wei-Lin Hsiao, Kristen Grauman.*<br>
 ICCV 2021. [[PDF](https://arxiv.org/abs/2102.01690)]
 
@@ -1615,8 +1617,8 @@ ICCV 2021. [[PDF](https://arxiv.org/abs/2102.01690)]
 
 ## 应用<a name="applications"></a>
 
-### Fitness Training
+### 健身训练
 
-**AIFit: Automatic 3D Human-Interpretable Feedback Models for Fitness Training.**<br>
+**AIFit：用于健身训练的自动三维人体可解释反馈模型。**<br>
 *Mihai Fieraru, Mihai Zanfir, Silviu-Cristian Pirlea, Vlad Olaru, Cristian Sminchisescu.*<br>
-CVPR 2021. [[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Fieraru_AIFit_Automatic_3D_Human-Interpretable_Feedback_Models_for_Fitness_Training_CVPR_2021_paper.pdf)] [[Project](http://vision.imar.ro/fit3d/)]
+CVPR 2021. [[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Fieraru_AIFit_Automatic_3D_Human-Interpretable_Feedback_Models_for_Fitness_Training_CVPR_2021_paper.pdf)] [[项目](http://vision.imar.ro/fit3d/)]
