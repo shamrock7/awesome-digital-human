@@ -1,46 +1,46 @@
-# Awesome Digital Human [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+# 数字人 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 <!-- # <p align=center>`awesome digital human`</p> -->
 <!-- [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
 ![visitors](https://visitor-badge.glitch.me/badge?style=flat-square&page_id=weihaox/awesome-clothed-human)  -->
 
-> A curated collection of resources on clothed people: full body recontruction, head reconstruction, digital human related projects, etc.  
+> 关于人体着装的精选资源集合：全身重建、头部重建、数字人相关项目等。 
 
-## Contributing
+## 贡献
 
-Feedback and contributions are welcome! If you think I have missed out on something (or) have any suggestions (papers, implementations and other resources), feel free to [pull a request](https://github.com/weihaox/awesome-digital-human/pulls). You could manually edit items or use the [script](https://github.com/weihaox/arxiv_daily_tools) to produce them in the markdown format provided below.
+欢迎提供反馈与贡献！如果你认为某些内容有遗漏或者有任何建议（论文、实现方案及其他资源），请在 [PR](https://github.com/shamrock7/awesome-digital-human/pulls)上提PR 。你可以手动编辑项目内容，或者使用脚本按照下面提供的 Markdown 格式生成内容。
 
 ```Markdown
-**Here is the Paper Name.**<br>
-*[Author 1](homepage), Author 2, and Author 3.*<br>
-Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Code](link)] [[Data](link)]
+**这里是论文名称。**<br>
+*[作者1](homepage), 作者2, 作者3。*<br>
+会议或期刊发表年份。 [[PDF](link)] [[项目](link)] [[代码](link)] [[数据](link)]
 ```
 
-<details><summary>Table of Contents</summary><p>
+<details><summary>目录</summary><p>
 	
-- [Industry Demo or Product](#industry-demo-or-product)
-- [3D Human Avatar Generation and Animation](#3d-human-avatar-generation-and-animation)
-- [3D Head Animatable Avatar (from 2D Image Collections)](#3d-head-animatable-avatar--from-2d-image-collections-)
-- [(Clothed) Human Motion Generation](#-clothed--human-motion-generation)
-- [Clothed Human Digitalization](#clothed-human-digitalization)
-- [Cloth Modelling, Draping, Simulation, and Dressing](#cloth-modelling--draping--simulation--and-dressing)
-- [Human Image and Video Generation](#human-image-and-video-generation)
-- [Image-Based Virtual Try-On](#image-based-virtual-try-on)
-- [Human Body Reshaping](#human-body-reshaping)
-- [Garment Design](#garment-design)
-- [Fashion Style Influences](#fashion-style-influences)
-- [Team and People](#team-and-people)
-- [Dataset](#dataset)
-- [Applications](#applications)
+- [行业 Demo 或产品](#industry-demo-or-product)
+- [3D 人体虚拟形象生成与动画制作](#3d-human-avatar-generation-and-animation)
+- [（基于 2D 图像集合的）3D 可动画头部虚拟形象](#3d-head-animatable-avatar--from-2d-image-collections-)
+- [(着装) 人体运动生成](#-clothed--human-motion-generation)
+- [人体着装数字化](#clothed-human-digitalization)
+- [布料建模、布料悬垂模拟、布料仿真以及穿衣](#cloth-modelling--draping--simulation--and-dressing)
+- [人体图像与视频生成](#human-image-and-video-generation)
+- [基于图像的虚拟试穿](#image-based-virtual-try-on)
+- [人体重塑](#human-body-reshaping)
+- [服装设计](#garment-design)
+- [时尚风格影响因素](#fashion-style-influences)
+- [团队与人员](#team-and-people)
+- [数据集](#dataset)
+- [应用](#applications)
 
 </p></details><p></p>
 
-## Industry Demo or Product
+## 行业 Demo 或产品 <a name='industry-demo-or-product'></a>
 
 Highavenue: Turn yourself into a 3D model.
 
-## 3D/4D Human Avatar Generation and Animation
+## 3D/4D 人体动画生成与制作 <a name='3d-human-avatar-generation-and-animation'></a>
 
 **DressRecon: Freeform 4D Human Reconstruction from Monocular Video.**<br>
 *Jeff Tan, Donglai Xiang, Shubham Tulsiani, Deva Ramanan, Gengshan Yang.*<br>
@@ -206,7 +206,7 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2309.06441)] [[Project](https://yfeng95
 *[Yifei Zeng](https://github.com/zeng-yifei), [Yuanxun Lu](https://github.com/YuanxunLu), [Xinya Ji](https://github.com/jixinya), [Yao Yao](https://yoyo000.github.io/), [Hao Zhu](http://zhuhao.cc/), [Xun Cao](https://cite.nju.edu.cn/People/Faculty/20190621/i5054.html).*<br> 
 arXiv 2023. [[PDF](https://arxiv.org/abs/2306.09864)] [[Project](https://zeng-yifei.github.io/avatarbooth_page/)] [[Code](https://github.com/zeng-yifei/AvatarBooth)]
 
-## 3D Head Animatable Avatar (from 2D Image Collections)
+## （基于 2D 图像集合的）3D 可动画头部虚拟形象 <a name='3d-head-animatable-avatar--from-2d-image-collections-'></a>
 
 **PAV: Personalized Head Avatar from Unstructured Video Collection.**<br>
 *Akin Caliskan, Berkay Kicanaoglu, Hyeongwoo Kim.*<br>
@@ -324,7 +324,7 @@ TPAMI 2021. [[PDF](https://arxiv.org/abs/2112.05957)]  [[Code](https://github.co
 *Alexandros Lattas, Stylianos Moschoglou, Baris Gecer, Stylianos Ploumpis, Vasileios Triantafyllou, Abhijeet Ghosh, Stefanos Zafeiriou.*<br>
 CVPR 2020. [[PDF](https://arxiv.org/abs/2003.13845)]  [[Code](https://github.com/lattas/AvatarMe)]
 
-## (Clothed) Human Motion Generation
+## （着装）人体运动生成 <a name='-clothed--human-motion-generation'></a>
 
 **ReLoo: Reconstructing Humans Dressed in Loose Garments from Monocular Video in the Wild.**<br>
 *Chen Guo, Tianjian Jiang, Manuel Kaufmann, Chengwei Zheng, Julien Valentin, Jie Song, Otmar Hilliges.*<br> 
@@ -386,7 +386,7 @@ ECCV 2022. [[PDF](https://arxiv.org/abs/2204.14109)] [[Project](https://mathis.p
 *Nikos Athanasiou, Mathis Petrovich, Michael J. Black, Gül Varol.*<br>
 3DV 2022. [[PDF](https://arxiv.org/abs/2209.04066)] [[Project](https://teach.is.tue.mpg.de/)] [[Code](https://github.com/athn-nik/teach)]
 
-## Clothed Human Digitalization
+## 人体着装数字化 <a name='clothed-human-digitalization'></a>
 
 [Project Splinter](https://project-splinter.github.io/): Human Digitalization with Implicit Representation.
 
@@ -1146,7 +1146,7 @@ CVPR 2019 (oral). [[PDF](https://arxiv.org/abs/1905.08776)] [[Project](https://s
 *[Tao Yu](https://ytrock.com/), [Kaiwen Guo](http://www.guokaiwen.com/), [Feng Xu](http://feng-xu.com/), Yuan Dong, Zhaoqi Su, Jianhui Zhao, Jianguo Li, Qionghai Dai, Yebin Liu.*<br>
 ICCV 2017. [[PDF](http://liuyebin.com/bodyfusion/bodyfusion_files/BdyFu_ICC7.pdf)] [[Project]()]
 
-## Cloth Modelling, Draping, Simulation, and Dressing
+## 布料建模、布料悬垂模拟、布料仿真以及穿衣 <a name='cloth-modelling--draping--simulation--and-dressing'></a>
 
 **4D-DRESS: A 4D Dataset of Real-world Human Clothing with Semantic Annotations.**<br>
 *[Wenbo Wang](https://wenbwa.github.io), [Hsuan-I Ho](https://ait.ethz.ch/people/hohs), [Chen Guo](https://ait.ethz.ch/people/cheguo), [Boxiang Rong](https://ribosome-rbx.github.io), [Artur Grigorev](https://ait.ethz.ch/people/agrigorev), [Jie Song](https://ait.ethz.ch/people/song), [Juan Jose Zarate](https://ait.ethz.ch/people/jzarate), [Otmar Hilliges](https://ait.ethz.ch/people/hilliges).*<br>
@@ -1272,7 +1272,7 @@ ICCV 2019. [[PDF](https://arxiv.org/abs/1908.06903)]
 *Peng Guan, Loretta Reiss, David A. Hirshberg, Alexander Weiss, Michael J. Black.*<br>
 TOG 2012. [[PDF](https://dl.acm.org/citation.cfm?doid=2185520.2185531)] [[Project](https://ps.is.tue.mpg.de/research_projects/drape-dressing-any-person)]
 
-## Human Image and Video Generation
+## 人体图像和视频生成 <a name='human-image-and-video-generation'></a>
 
 **Gaussian Shell Maps for Efficient 3D Human Generation.**<br>
 *Rameen Abdal, Wang Yifan, Zifan Shi, Yinghao Xu, Ryan Po, Zhengfei Kuang, Qifeng Chen, Dit-Yan Yeung, Gordon Wetzstein.*<br> 
@@ -1350,7 +1350,7 @@ CVPR 2019 (oral). [[PDF](https://arxiv.org/abs/1904.03349)] [[Code](https://gith
 *Siyu Huang, Haoyi Xiong, Zhi-Qi Cheng, Qingzhong Wang, Xingran Zhou, Bihan Wen, Jun Huan, Dejing Dou.*<br>
 IJCAI 2020. [[PDF](https://arxiv.org/abs/2007.09077)] [[Code](https://github.com/siyuhuang/PoseStylizer)]
 
-## Image-Based Virtual Try-On
+## 基于图像的虚拟试穿 <a name='image-based-virtual-try-on'></a>
 
 [[Awesome Virtual Try-on (VTON)](https://github.com/minar09/awesome-virtual-try-on)]
 
@@ -1502,7 +1502,7 @@ ICCV 2019. [[PDF](https://openaccess.thecvf.com/content_ICCV_2019/html/Yu_VTNFP_
 *Bochao Wang, Huabin Zheng, Xiaodan Liang, Yimin Chen, Liang Lin, Meng Yang.*<br>
 ECCV 2018. [[PDF](https://arxiv.org/abs/1807.07688)]
 
-## Human Body Reshaping
+## 人体重塑 <a name='human-body-reshaping'></a>
 
 **Structure-Aware Flow Generation for Human Body Reshaping.**<br>
 *[Jianqiang Ren](https://github.com/JianqiangRen), Yuan Yao, Biwen Lei, Miaomiao Cui, Xuansong Xie.*<br>
@@ -1577,7 +1577,7 @@ CVPR 2022. [[PDF](https://arxiv.org/abs/2203.13815)] [[Code](https://github.com/
 - Fashion IQ. [[Website]](https://www.spacewu.com/posts/fashion-iq/)
 - NTURGBD-Parsing-4K Dataset. [[Website](https://github.com/hongfz16/HCMoCo)]
 
-## Garment Design
+## 时装设计 <a id='garment-design'></a>
 
 **Knitting 4D Garment with Elasticity Controlled for Body Motion.**<br>
 *[Zishun Liu](https://github.com/zishun), Xingjian Han, Yuchen Zhang, Xiangjia Chen, Yukun Lai, Eugeni L. Doubrovski, Emily Whiting, Charlie C.L. Wang.*<br>
@@ -1587,7 +1587,7 @@ TOG 2021. [[PDF](https://1drv.ms/b/s!AsZuzkRqeoh6gsUNhZKQ0bRp-BDaJQ?e=XIegdJ)] [
 *Chenxi Yuan, Mohsen Moghaddam.*<br>
 KDD workshop on AdvML 2020. [[PDF](https://arxiv.org/abs/2007.10947)] 
 
-## Fashion Style Influences
+## <a name='fashion-style-influences'></a>时尚风格影响因素
 
 **From Paris to Berlin: Discovering Fashion Style Influences Around the World.**<br>
 *Ziad Al-Halah, Kristen Grauman.*<br>
@@ -1597,7 +1597,7 @@ CVPR 2020. [[PDF](https://arxiv.org/abs/2004.01316)]
 *Wei-Lin Hsiao, Kristen Grauman.*<br>
 ICCV 2021. [[PDF](https://arxiv.org/abs/2102.01690)]
 
-## Team and People 
+## 团队与成员<a name='team-and-people'></a>
 
 - [Real Virtual Humans](http://virtualhumans.mpi-inf.mpg.de/), **Max Planck Institute for Informatics**, by [Gerard Pons-Moll](http://virtualhumans.mpi-inf.mpg.de/people/pons-moll.html).
 - [Perceiving Systems, Tubingen Compus](http://ps.is.tuebingen.mpg.de/), **Max Planck Institute for Intelligent Systems**, by [Michael Black](http://ps.is.tuebingen.mpg.de/person/black).
@@ -1605,7 +1605,7 @@ ICCV 2021. [[PDF](https://arxiv.org/abs/2102.01690)]
 - [Broadband Network and Digital Media Lab](http://www.liuyebin.com/student.html), Department of Automation, **Tsinghua University**, by [Yebin Liu](http://www.liuyebin.com/).
 - [Vision and Graphics Lab](https://ict.usc.edu/), **University of Southern California**, by [Hao Li](http://hao-li.com/Hao_Li/Hao_Li_-_publications.html).
 
-## Dataset
+## 数据集<a name='dataset'></a>
 
 - `SMPL`. To download the [SMPL-X](https://smpl-x.is.tue.mpg.de/), [SMPL+H](http://mano.is.tue.mpg.de/) and SMPL ([Male and Female](http://smpl.is.tue.mpg.de/), [Gender Neural Model](http://smplify.is.tue.mpg.de/)) model, go to this project website and register to get access to the downloads section. [[Code](https://github.com/vchoutas/smplx#loading-smpl-x-smplh-and-smpl)]
 
@@ -1613,7 +1613,7 @@ ICCV 2021. [[PDF](https://arxiv.org/abs/2102.01690)]
 
 - `AGORA`. AGORA, proposed at CVPR 2021 [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Patel_AGORA_Avatars_in_Geography_Optimized_for_Regression_Analysis_CVPR_2021_paper.pdf), consists of 4240 scans spanning more than 350 unique subjects, all paired with SMPL-X fits.
 
-## Applications
+## 应用<a name="applications"></a>
 
 ### Fitness Training
 
