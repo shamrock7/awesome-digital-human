@@ -1568,16 +1568,16 @@ CVPR 2022. [[PDF](https://arxiv.org/abs/2203.13815)] [[代码](https://github.co
 - 深度时尚 2 挑战赛 [[CVPR 2020]](https://sites.google.com/view/cvcreative2020/deepfashion2?authuser=0) [[ICCV 2019]](https://sites.google.com/view/cvcreative/deepfashion2)
 
 ### 数据集
-- WildAvatar (2024). [[Website]](https://arxiv.org/pdf/2407.02165)
-- Fashionpedia. [[Website]](https://fashionpedia.github.io/home/index.html)
-- DeepFashion2 Dataset. [[Website]](<https://github.com/switchablenorms/DeepFashion2>)
-- DeepFashion Dataset. [[Website]](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html)
-- FashionGen. [[Website]](https://fashion-gen.com/)
+- WildAvatar (2024). [[网站]](https://arxiv.org/pdf/2407.02165)
+- Fashionpedia. [[网站]](https://fashionpedia.github.io/home/index.html)
+- DeepFashion2 Dataset. [[网站](<https://github.com/switchablenorms/DeepFashion2>)
+- DeepFashion Dataset. [[网站]](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html)
+- FashionGen. [[网站]](https://fashion-gen.com/)
 - FashionAI. [[Tianchi]](http://fashionai.alibaba.com/datasets/?spm=a2c22.11190735.991137.8.501b6d83ilPJsX)
 - TaobaoClothMatch. [[Tianchi]](TaobaoClothMatch)
 - Fashion-MNIST. [[Fashion-MNIST]](https://github.com/zalandoresearch/fashion-mnist)
-- Fashion IQ. [[Website]](https://www.spacewu.com/posts/fashion-iq/)
-- NTURGBD-Parsing-4K Dataset. [[Website](https://github.com/hongfz16/HCMoCo)]
+- Fashion IQ. [[网站]](https://www.spacewu.com/posts/fashion-iq/)
+- NTURGBD-Parsing-4K Dataset. [[网站](https://github.com/hongfz16/HCMoCo)]
 
 ## 时装设计 <a id='garment-design'></a>
 
