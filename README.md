@@ -390,7 +390,7 @@ ECCV 2022. [[PDF](https://arxiv.org/abs/2204.14109)] [[项目](https://mathis.pe
 
 ## 人体着装数字化 <a name='clothed-human-digitalization'></a>
 
-[Project Splinter](https://project-splinter.github.io/): Human Digitalization with Implicit Representation.
+[Project Splinter](https://project-splinter.github.io/): 基于隐式表征的人体数字化项目。
 
 **PuzzleAvatar：从个人相册组装 3D 虚拟化身**<br>
 *Yuliang Xiu, Yufei Ye, Zhen Liu, Dimitrios Tzionas, Michael J. Black.*<br>
@@ -1354,7 +1354,7 @@ IJCAI 2020. [[PDF](https://arxiv.org/abs/2007.09077)] [[代码](https://github.c
 
 ## 基于图像的虚拟试穿 <a name='image-based-virtual-try-on'></a>
 
-[[Awesome Virtual Try-on (VTON)](https://github.com/minar09/awesome-virtual-try-on)]
+[[VTON（虚拟试穿）](https://github.com/minar09/awesome-virtual-try-on)]
 
 **FashionTex：基于文本和纹理的可控虚拟试穿**<br>
 *Anran Lin, Nanxuan Zhao, Shuliang Ning, Yuda Qiu, Baoyuan Wang, Xiaoguang Han.*<br> 
