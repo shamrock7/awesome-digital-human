@@ -1610,7 +1610,7 @@ ICCV 2021. [[PDF](https://arxiv.org/abs/2102.01690)]
 ## 数据集<a name='dataset'></a>
 
 - `SMPL`。要下载 [SMPL-X](https://smpl-x.is.tue.mpg.de/)、[SMPL+H](http://mano.is.tue.mpg.de/) 以及 SMPL（[男性、女性](http://smpl.is.tue.mpg.de/)、[中性模型](http://smplify.is.tue.mpg.de/)），请访问该项目网站并注册，以获得下载权限。[代码](https://github.com/vchoutas/smplx#loading-smpl-x-smplh-and-smpl)
-- 
+
 - `清华人体数据集（THUmanDataset）`。[THUman](https://github.com/ZhengZerong/DeepHuman/tree/master/THUmanDataset) 是一个三维真实人体模型数据集，包含约7000个模型。
 
 - `AGORA`。AGORA 于 2021 年 CVPR（计算机视觉与模式识别会议）的一篇[论文](https://openaccess.thecvf.com/content/CVPR2021/papers/Patel_AGORA_Avatars_in_Geography_Optimized_for_Regression_Analysis_CVPR_2021_paper.pdf)中提出，由 4240 次扫描构成，涵盖 350 多个不同个体，所有扫描都匹配了 SMPL-X 模型。
